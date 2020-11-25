@@ -1,0 +1,12 @@
+body {
+    background: black;
+}
+
+.clock {
+    color: blue;
+    font-size: 100px;
+    letter-spacing: 10px;
+    margin-left: 30%;
+    margin-top: 15%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
